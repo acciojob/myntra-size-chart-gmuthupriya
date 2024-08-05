@@ -1,2 +1,17 @@
+th,td{
+	font-family:monospace;
+	
+	padding:10px	
+	
+	
+}
+table{
+	width:100%
+	
+}
+th{
+	text-align:left;
+	background-color:sandybrown	
+}
 
 /* Your CSS Code here. */
